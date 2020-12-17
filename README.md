@@ -1,4 +1,4 @@
-# SocialAnxietySimulation
+# Social Anxiety Simulation
 
 This is a Unity3D project created with Virtual Reality in mind.
 The goal of this simulation is to provide a realistic scenario for people struggling with social anxiety to practice their coping mechanisms.
